@@ -20,7 +20,9 @@ PRODUCT_PACKAGES += \
     NexusWallpapersStubPrebuilt2018 \
     SafetyHubPrebuilt \
     SettingsIntelligenceGooglePrebuilt \
-    Recorder
+    Recorder \
+    PixelThemes \
+    PixelWallpapers19
 
 ifeq ($(TARGET_GAPPS_ARCH),arm64)
 PRODUCT_PACKAGES += \
